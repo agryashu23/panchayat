@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922372477815",
+    "project_id": "panchayat-survey-58e4c",
+    "storage_bucket": "panchayat-survey-58e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922372477815:android:c516ee7b67aad6eb110772",
+        "android_client_info": {
+          "package_name": "com.example.survey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtGD_VQ1NvZdQBRPWsws5ByDl4mMfiP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
